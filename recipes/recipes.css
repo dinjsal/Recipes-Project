@@ -1,0 +1,12 @@
+body {
+    background: #D1913C; 
+    background: -webkit-linear-gradient(to right, #FFD194, #D1913C); 
+    background: linear-gradient(to right, #FFD194, #D1913C);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+}
